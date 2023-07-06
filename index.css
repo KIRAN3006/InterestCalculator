@@ -1,0 +1,67 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'PT Sans', sans-serif;
+}
+.h1{
+    font-size: 6.5rem;
+    /* color: #0C0404; */
+    color:white;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+.h1{
+    display: block;
+    position: absolute;
+    top:8rem;
+    left:12rem;
+    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
+}
+.img{
+    display: inline-block;
+    position: absolute;
+    left: 60rem;
+    top:10rem;
+}
+.bankimage{
+    width:55%;
+    border-radius: 20%;
+}
+.select{
+display: block;
+position: absolute;
+top: 33rem;
+left:40rem;
+}
+.select-paragraph{
+color:white;
+text-decoration: underline;
+}
+.button-box{
+    display: block;
+    position:absolute;
+    top:40rem;
+    left:8.5rem;
+}
+.link{
+    font-size: 1.3rem;
+}
+.link:hover{
+    font-weight: bold;    
+}
+.movepara{
+    position: absolute;
+    top:16rem;
+    left:12.5rem;
+}
+.paragraph{
+    color:white;
+    font-size: 1.8rem;
+}
+.intmove{
+    position: relative;
+    top:2rem;
+}
